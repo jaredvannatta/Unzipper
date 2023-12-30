@@ -1,3 +1,0 @@
-([('unzipper',
-   '/Volumes/GreyWitch/Programming Practice/Unzipper/dist/unzipper',
-   'EXECUTABLE')],)
